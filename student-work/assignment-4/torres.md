@@ -1,4 +1,4 @@
-#Eduardo Torres
+## Eduardo Torres
 
 My favorite coding language is currently SQL ! 
 SQL is fun to use and it feels like a puzzle each time I have to find
@@ -7,7 +7,7 @@ a query.
 ## Example Code
 
 '''
-SELECT count(Gender)
+SELECT count(Gender) 
 FROM DS219
 WHERE mood LIKE 'Happy'
 GROUP BY student
